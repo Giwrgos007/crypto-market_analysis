@@ -24,6 +24,14 @@ This project retrieves real-time cryptocurrency market data from the CoinGecko A
 
 ---
 
+ ## Key Insights
+
+- Bitcoin had the highest market capitalization
+- Ethereum showed stable trading volume
+- Solana presented higher short-term volatility
+
+---
+
 ## Data Exploration & Insights (SQL Queries)
 
 1. Database Table Verification
